@@ -27,6 +27,7 @@
     "tests"
   ],
   "dependencies": {
-    "threejs": "*"
+    "threejs": "*",
+    "requirejs": "~2.1.15"
   }
 }
